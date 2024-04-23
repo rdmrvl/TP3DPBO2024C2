@@ -5,7 +5,7 @@ Tugas Praktikum 3 DPBO
 
 Saya Marvel Ravindra Dioputra [2200481] TP3 dalam Mata Kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
-Yugas praktikum membuat kode yang dapat melakukan CRUD menggunakan framework PHP dengan tema Data Masyarakat/Penduduk. Struktur folder:
+Tugas praktikum membuat kode yang dapat melakukan CRUD menggunakan framework PHP dengan tema Data Masyarakat/Penduduk. Struktur folder:
 
   1. Folder template: Berisi skin HTML atau tampilan aplikasi.
   2. Folder classes: Berisi class untuk melakukan operasi CRUD dan koneksi database. Kelas-kelas yang akan dibuat antara lain: DB, Kecamatan, Penghasilan, Penduduk, dan Template.
