@@ -21,6 +21,4 @@ Tabel-tabel yang digunakan dalam database adalah sebagai berikut:
 ![design_database](https://github.com/rdmrvl/TP3DPBO2024C2/assets/64513644/26b83375-d87d-452f-bc78-323d11e74c76)
 Tabel Penghasilan dan Kecamatan tidak dapat ditambah, diubah, atau dihapus karena data kecamatan sudah terdaftar semua dan pilihan penghasilan telah ditentukan.
 
-Alur:
-https://github.com/rdmrvl/TP3DPBO2024C2/assets/64513644/9ea953e2-abc0-4fc9-a867-6829d4521e6c
 
