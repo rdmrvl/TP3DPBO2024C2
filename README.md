@@ -21,4 +21,5 @@ Tabel-tabel yang digunakan dalam database adalah sebagai berikut:
 ![design_database](https://github.com/rdmrvl/TP3DPBO2024C2/assets/64513644/26b83375-d87d-452f-bc78-323d11e74c76)
 Tabel Penghasilan dan Kecamatan tidak dapat ditambah, diubah, atau dihapus karena data kecamatan sudah terdaftar semua dan pilihan penghasilan telah ditentukan.
 
-
+Alur:
+Setiap kali data penduduk ditambahkan, diperbarui, atau dihapus, parameter yang diinput seperti nik, kecamatan, dan penghasilan akan dilempar ke Penduduk.php untuk menjalankan method/fungsi yang sesuai pada class Penduduk dan menjalankan query sql.
