@@ -26,7 +26,7 @@ if (isset($_POST['submit'])) {
 $btn = 'Tambah';
 $title = 'Tambah';
 
-$view = new Template('templates/skinpenghasilan.html');
+$view = new Template('templates/skintabel.html');
 
 $mainTitle = 'Penghasilan';
 $header = '<tr>
@@ -104,3 +104,4 @@ $view->replace('DATA_FORM_LABEL', $formLabel);
 $view->replace('DATA_TABEL', $data);
 $view->write();
 ?>
+
